@@ -1,5 +1,5 @@
 ## zapret-Turkey nedir?
-zapret-Turkey, zapret'in benim `blockcheck.sh` script'i ile check ettigim DPI bypass yontemlerini kullanarak `install_easy.sh` script'i ile kurdugum, sistemimdeki `/opt/zapret` dizininin bir kopyasidir.
+zapret-Turkey, `blockcheck.sh` script'i ile check ettigim DPI bypass yontemlerini kullanarak `install_easy.sh` script'i ile kurdugum zapret'in sistemimdeki `/opt/zapret` dizininin bir kopyasidir.
 
 Bazi ayarlar sistemden sisteme degisiklik gosterse de zapret'i bu haliyle kurarsaniz buyuk ihtimal calisacaktir.
 
